@@ -2,10 +2,10 @@
 
 
 
-![1548387702185](C:\Users\im\AppData\Local\Temp\1548387702185.png)
+![1548387702185](C:\Users\im\Desktop\knn手写字识别\1548387702185.png)
 
 使用knn算法 
 
-![1548387742400](C:\Users\im\AppData\Local\Temp\1548387742400.png)
+![1548387742400](C:\Users\im\Desktop\knn手写字识别\1548387742400.png)
 
-![1548387766222](C:\Users\im\AppData\Local\Temp\1548387766222.png)
+![1548387766222](C:\Users\im\Desktop\knn手写字识别\1548387766222.png)
